@@ -1,4 +1,6 @@
-UIColor-Hex
-===========
+# UIColor-Hex
 
-UIColor Category to create color object from hex values
+UIColorCategory to create color object from hex values.
+
+# License
+MIT - [http://jbrooksuk.mit-license.org](http://jbrooksuk.mit-license.org)
